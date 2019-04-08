@@ -1,0 +1,22 @@
+{
+  "name": "http_exs",
+  "version": "1.0.0",
+  "description": "Http excerises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andmast/https-requests.git"
+  },
+  "author": "Andrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andmast/https-requests/issues"
+  },
+  "homepage": "https://github.com/andmast/https-requests#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
